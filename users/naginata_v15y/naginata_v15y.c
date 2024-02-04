@@ -403,7 +403,7 @@ void naginata_on(void) {
   layer_on(naginata_layer);
 
   tap_code(KC_LANGUAGE_1); // Mac
-  tap_code(KC_INTERNATIONAL_4); // Win
+  tap_code(KC_INTERNATIONAL_2); // Win
 }
 
 // 薙刀式をオフ
